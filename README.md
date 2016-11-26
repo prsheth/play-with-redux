@@ -8,4 +8,11 @@
 
 	> npm install
 	> npm start
-###Credits:###[https://github.com/StephenGrider/ReactStarter/releases]
+
+
+
+
+
+
+
+[Inspiration](https://github.com/StephenGrider/ReactStarter/releases)
